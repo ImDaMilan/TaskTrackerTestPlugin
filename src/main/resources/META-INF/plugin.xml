@@ -22,7 +22,7 @@
     <!-- Extension points defined by the plugin.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-extension-points.html -->
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.imdamilan.testtask.ClassAndFunctionCountPlugin" id="Classes and Functions" anchor="right" icon="AllIcons.Actions.DependencyAnalyzer"/>
+        <toolWindow factoryClass="com.imdamilan.testtask.ClassAndFunctionCountPlugin" id="Classes and Functions" anchor="right"/>
     </extensions>
 
     <actions>
